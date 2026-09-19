@@ -1,0 +1,16 @@
+Positive:
+
+This is one of the best experiences I have ever had.
+
+Negative:
+
+The service was terrible and extremely disappointing.
+
+Neutral:
+
+I am not sure if i like this product or not.
+
+
+Generate Text:
+
+Once upon a time.......

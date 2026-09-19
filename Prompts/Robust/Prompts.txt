@@ -1,0 +1,28 @@
+Positive:
+
+	"I love this product.",
+        "I love this product! 😊",
+        "I love this product! 😍",
+        "I love this product! ❤️"
+
+Negative:
+
+	"I don't like this product.",
+        "I really dislike this product.",
+        "I hate this product.",
+        "This product is terrible.",
+        "I'm very disappointed with this product.",
+        "This is an awful product."
+
+Neutral:
+
+	"The meeting is scheduled for Monday",
+        "The meeting will take place on Monday",
+        "A meeting has been planned for Monday"
+
+
+Generate Text:
+
+	"The meeting is scheduled for Monday and"
+        "The meeting will take place on Monday and"
+        "A meeting has been planned for Monday and"
