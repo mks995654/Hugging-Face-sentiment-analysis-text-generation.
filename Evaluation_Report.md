@@ -34,10 +34,10 @@ Verify that the model correctly classifies standard sentiment inputs and generat
 
 | Test Case | Status |
 |------------|---------|
-| Positive Sentiment | ✅ Passed |
-| Negative Sentiment | ✅ Passed |
-| Neutral Sentiment | ✅ Passed |
-| Text Generation | ✅ Passed |
+| Positive Sentiment |  Passed |
+| Negative Sentiment |  Passed |
+| Neutral Sentiment |  Passed |
+| Text Generation |  Passed |
 
 ### Sample Inputs
 
@@ -84,7 +84,7 @@ Absolutely fantastic!!!
 
 ### Result
 
-❌ Failed
+ Failed
 
 ### Observation
 
@@ -105,7 +105,7 @@ Worst purchase ever
 
 ### Result
 
-❌ Failed
+ Failed
 
 ### Observation
 
@@ -126,7 +126,7 @@ The phone has a 6-inch screen.
 
 ### Result
 
-✅ Passed
+ Passed
 
 ### Observation
 
@@ -166,7 +166,7 @@ I love this product! ❤️
 
 ### Result
 
-✅ Passed
+ Passed
 
 The model maintained correct sentiment predictions despite emoji and punctuation variations.
 
@@ -185,7 +185,7 @@ This is an awful product.
 
 ### Result
 
-✅ Passed
+ Passed
 
 The model maintained stable negative sentiment classification.
 
@@ -203,7 +203,7 @@ A meeting has been planned for Monday.
 
 ### Result
 
-✅ Passed
+ Passed
 
 The model successfully recognized semantic equivalence across different sentence structures.
 
@@ -213,7 +213,7 @@ The model successfully recognized semantic equivalence across different sentence
 
 ### Result
 
-✅ Passed
+ Passed
 
 Generated text remained:
 
@@ -236,17 +236,17 @@ Generated text remained:
 
 # Key Strengths
 
-✅ 100% Functional Test Accuracy
+ 100% Functional Test Accuracy
 
-✅ 100% Robustness Test Success
+ 100% Robustness Test Success
 
-✅ Strong Neutral Sentiment Detection
+ Strong Neutral Sentiment Detection
 
-✅ Reliable Predictions Across Sentence Variations
+ Reliable Predictions Across Sentence Variations
 
-✅ Stable Text Generation Capability
+ Stable Text Generation Capability
 
-✅ Effective Handling of Emoji Variations During Robustness Testing
+ Effective Handling of Emoji Variations During Robustness Testing
 
 ---
 
